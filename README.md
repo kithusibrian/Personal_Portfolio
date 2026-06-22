@@ -22,7 +22,7 @@ It’s designed to be **clean, responsive, and easy to customize** using data-dr
 
 ## 🧑‍💻 How to run
 
-From inside `kithusi/`:
+From inside `portfolio/`:
 
 ```bash
 npm install
